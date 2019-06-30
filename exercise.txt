@@ -1,1 +1,5 @@
-doing exercises yesterday
+<<<<<<< HEAD
+doing exercises
+=======
+doing exercises today
+>>>>>>> new_branch
