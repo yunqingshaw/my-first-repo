@@ -1,4 +1,0 @@
-<<<<<<< HEAD
-=======
-doing exercises today
->>>>>>> new_branch
